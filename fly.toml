@@ -1,4 +1,4 @@
-app = "${APP_NAME}"
+app = "n8n-dkmedia"
 primary_region = 'fra'
 
 [build]

@@ -2,8 +2,8 @@
 
 General info:
 ```
-URL: https://n8n.dkmedia.si 
-APP_NAME: n8n-dkmedia
+URL=https://n8n.dkmedia.si 
+APP_NAME=n8n-dkmedia
 ```
 
 N8N configuration:
